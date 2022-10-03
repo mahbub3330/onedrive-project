@@ -4,6 +4,7 @@
 
 => hierarchy folder
 => socialite (auth onedrive)
+=> repository pattern
 
 2. front end
 
